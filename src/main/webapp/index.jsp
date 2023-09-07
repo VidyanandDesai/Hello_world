@@ -6,7 +6,7 @@
 <title>Welcome to Desai's Empire K</title>
 <style>
   body {
-    background-color: yellow;
+    background-color: light pink;
   }
 </style>
 </head>
