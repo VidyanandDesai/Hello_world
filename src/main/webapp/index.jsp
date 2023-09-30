@@ -6,7 +6,7 @@
 <title>bigboss K</title>
 <style>
   body {
-    background-color: green;
+    background-color: pink;
   }
 </style>
 </head>
