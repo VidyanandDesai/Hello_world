@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>bigboss K</title>
+<title>Welcome to MicroDegree K</title>
 <style>
   body {
     background-color: pink;
@@ -12,7 +12,7 @@
 </head>
 <body>
 <h1>bigboss</h1>
-<p>This is Desai's dinasy.</p>
+<p>This is vidyanand.</p>
 </body>
 </html>
 
